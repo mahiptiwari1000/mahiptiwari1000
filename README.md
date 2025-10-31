@@ -1,6 +1,6 @@
 # 🧑‍💻 Mahip Tiwari
 
-🎓 **MS in Management Information Systems** @ *University of Illinois Chicago*  
+🎓 **MS in Management Information Systems** @ *University of Illinois Chicago*  | **BTech in Computer Science & Engineering** @ *Symbiosis International University, Pune*
 💼 **Software Engineer Intern @ CrowdStrike** | Ex-**ZS Associates**  
 ⚙️ Passionate about **AI/ML Engineering**, **Full-Stack Development**, and **Cybersecurity**  
 🌎 Building, breaking, and securing things — one repo at a time  
