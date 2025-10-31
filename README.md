@@ -1,9 +1,22 @@
 # 🧑‍💻 Mahip Tiwari
 
-🎓 **MS in Management Information Systems** @ *University of Illinois Chicago*  | **BTech in Computer Science & Engineering** @ *Symbiosis International University, Pune*
+🎓 **MS in Management Information Systems** @ *University of Illinois Chicago*  | **BTech in Computer Science & Engineering** @ *Symbiosis International University, Pune*  
 💼 **Software Engineer Intern @ CrowdStrike** | Ex-**ZS Associates**  
 ⚙️ Passionate about **AI/ML Engineering**, **Full-Stack Development**, and **Cybersecurity**  
 🌎 Building, breaking, and securing things — one repo at a time  
+
+---
+
+## 👋 About Me
+
+Hi, I’m **Mahip** — a builder who loves merging **engineering precision** with **data-driven intelligence**.  
+I enjoy solving real-world problems through **clean code, scalable systems**, and **ML-powered solutions**.  
+
+💡 **Highlights**
+- 🚀 Delivered production-ready features during my internship at **CrowdStrike**, improving dashboard usability & frontend performance.  
+- 🧩 Developed prototypes for enterprise clients at **ZS Associates**, accelerating proof-of-concept delivery by 40%.  
+- 🧠 Published academic research on **Graph Neural Networks for cybersecurity**, achieving **AUC 0.98** using *GraphMAE + GraphGPS*.  
+- 🌐 Experienced across the **full stack** — React / Next.js / Node.js on the frontend-backend, and **Python ML pipelines** for analytics.  
 
 ---
 
@@ -38,11 +51,14 @@
 
 ---
 
-## 🏆 Trophies
+## 🏗️ Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahiptiwari1000&theme=tokyonight&margin-w=15&margin-h=15&column=6&no-frame=true" />
-</p>
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**GenUI**](https://github.com/mahiptiwari1000/GenUI) | AI-powered UI generator using RAG to create responsive web components on the fly. | React, Next.js, TailwindCSS, LangChain, OpenAI API |
+| [**GraphShield**](https://github.com/mahiptiwari1000/GraphShield) | Research project on malicious network traffic detection using Graph Transformers. | Python, PyTorch Geometric, GNNs |
+| [**Trip&Treat**](https://github.com/mahiptiwari1000/Trip-Treat) | Travel discovery platform showcasing homestays, hotspots, and eateries. | Next.js, Supabase, TailwindCSS |
+| [**IT Support App (TTMS)**](https://github.com/mahiptiwari1000/it-support-app) | Ticketing & troubleshooting platform with AWS-based auth and media upload. | Next.js, AWS Amplify, MongoDB |
 
 ---
 
@@ -50,7 +66,24 @@
 
 - 🧩 Building **AI-powered apps** with *React + Next.js + RAG*  
 - 🧠 Exploring **Graph Neural Networks** for *malware detection*  
-- 💬 Improving my **open-source contributions** (one PR at a time)
+- 💬 Enhancing **open-source contributions** (one PR at a time)  
+
+---
+
+## 🏅 Certifications
+
+- 🧠 **AWS Certified AI Practitioner** – *Amazon Web Services (2024)*  
+- 📊 **Tableau Data Visualization** – *UIC College of Business*  
+- 💻 **Full-Stack Developer Nanodegree (React + Node.js)** – *Udacity*  
+- 🤖 **Machine Learning Specialization** – *Coursera / Stanford University*
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahiptiwari1000&theme=tokyonight&margin-w=15&margin-h=15&column=6&no-frame=true" />
+</p>
 
 ---
 
