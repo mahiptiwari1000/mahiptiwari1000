@@ -1,16 +1,42 @@
-## Hi there 👋
+🧑‍💻 Mahip Tiwari
 
-<!--
-**mahiptiwari1000/mahiptiwari1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Management Information Systems @ UIC
+💼 Software Engineer Intern @ CrowdStrike | Ex-ZS Associates
+⚙️ Passionate about AI/ML Engineering, Full-Stack Development, and Cybersecurity
+🌎 Building, breaking, and securing things — one repo at a time
 
-Here are some ideas to get you started:
+🧰 Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,cpp,python,flutter,aws,gcp,mongodb,postgresql,git,github,docker,figma&perline=9"/> </p>
+🚀 GitHub Stats
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+</div>
+🧾 Profile Summary
+<div align="center">
+
+
+
+
+
+
+</div>
+🏆 Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mahiptiwari1000&theme=tokyonight&margin-w=15&margin-h=15&column=6&no-frame=true" /> </p>
+🌱 Currently Working On
+
+🧩 Building AI-powered apps with React + Next.js + RAG
+
+🧠 Exploring Graph Neural Networks for malware detection
+
+💬 Improving my open-source contributions (one PR at a time)
+
+🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/mahiptiwari1000/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/mahiptiwari1000" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:mahiptiwari1000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+🌌 Fun Quote
+
+“Code is like humor — when you have to explain it, it’s bad.”
+— Cory House
