@@ -87,6 +87,10 @@ I enjoy solving real-world problems through **clean code, scalable systems**, an
 
 ---
 
+[![An image of @mahiptiwari1000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahiptiwari1000)](https://holopin.io/@mahiptiwari1000)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
